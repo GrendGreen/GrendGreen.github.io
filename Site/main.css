@@ -1,0 +1,60 @@
+  p {
+    margin-bottom: -30px;
+    color: #FF0000;
+    font-size:27px; 
+}
+
+  h1 {
+  	margin-bottom: 50px;
+  	margin: 30;
+  	font-family:Arial;
+}
+
+body {
+  background-image:url(img/2.jpg);
+}
+
+ a {
+   color: #000080;
+   text-decoration: none;
+   font-size:27px;
+}
+
+ h2 {
+    color: #808080;
+    font-size:30px;
+    font-family:cursive;
+}
+
+
+ h3 {
+   margin-bottom: -25px;
+}
+
+
+.topnav {
+    overflow: hidden;
+    
+}
+
+
+.topnav a {
+    float: right;
+    color: red;
+    text-align: left;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: 20px;
+    font-family: fantasy;
+}
+
+
+.topnav a:hover {
+    background-color: red;
+    color: black;
+}
+
+
+.topnav a.active {    
+    color: black;
+}
