@@ -1,0 +1,21 @@
+body {
+  background-image:url(img/2.jpg);
+}
+
+
+
+ h1 {
+   font-family: Arial;
+   color: red;
+ }
+
+
+  a {
+  	text-decoration: none;
+  	color: red;
+  }
+
+
+ h2 {
+ 	font-family: Luminari;
+ }
